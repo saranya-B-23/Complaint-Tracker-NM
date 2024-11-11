@@ -31,7 +31,7 @@ git clone https://github.com/saranya-B-23/Complaint-Tracker-NM.git
 
 ### 2. Navigate into the project directory
 ```bash
-cd complaint-Tracker-NM
+cd Complaint-Tracker-NM
 ```
 
 ### 3. Install dependencies
